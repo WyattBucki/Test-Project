@@ -13,3 +13,5 @@ print("Hello, World!")
 print("I want a chalupa")
 
 print("the double cheesy gordita box is also very good")
+
+print("derek is a moron")
